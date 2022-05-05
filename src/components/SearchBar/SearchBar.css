@@ -1,0 +1,18 @@
+.searchbar-outer-wrapper{
+    display: flex;
+    height: 45px;
+    width: 100%;
+}
+.search-input-bar{
+    font-size: 14px;
+    padding: 10px;
+    color:#333;
+    background-color: #ffdd76;
+    width:50%;
+    border: none;
+    outline: none;
+}
+.search-input-space{
+    width: 15%;
+    background-color: #ffbf00;
+}

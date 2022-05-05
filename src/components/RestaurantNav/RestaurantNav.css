@@ -1,0 +1,25 @@
+.rs-name-outer-wrapper{
+    display: flex;
+}
+.rs-name-wrapper{
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    width:10%;
+    text-align: left;
+    cursor: pointer;
+    margin-top:10px;
+}
+.rs-list-item{
+    color:#333;
+    font-size: 14px;
+    padding:5px;
+    font-weight: bold;
+}
+.rs-list-item-active{
+    color:#333;
+    background: #ffbf00;
+}
+.rs-list-item:hover{
+    background: #ffbf00;
+}

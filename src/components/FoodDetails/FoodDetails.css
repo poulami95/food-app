@@ -1,0 +1,26 @@
+.food-items-outer-wrapper{
+    display: flex;
+    padding: 15px 5px;
+    height: 83vh;
+    background-color: #fffceb;
+    width: 90%;
+}
+.food-items-inner-wrapper{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    height:50%;
+    justify-content: space-around;
+}
+.food-list-item-wrapper{
+    border:1px solid transparent;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    width: 10%;
+    height: 115px;
+    margin:5px;
+    padding: 10px;
+    justify-content: center;
+    color:#fff;
+}
