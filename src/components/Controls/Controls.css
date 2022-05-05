@@ -1,0 +1,22 @@
+.controls-outer-wrapper{
+    display: flex;
+    background-color: #d3d3d3;
+    height: 45px;
+    justify-content: space-evenly;
+    position: fixed;
+    width: 100%;
+    bottom:0
+}
+.controls-button-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid transparent;
+    color: #333;
+    background-color: #ffbf00;
+    border-radius: 5px;
+    width: 30%;
+    margin:5px 0;
+    font-weight: bold;
+    cursor: pointer;
+}
